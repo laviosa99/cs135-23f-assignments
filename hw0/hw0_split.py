@@ -99,4 +99,5 @@ def split_into_train_and_test(x_all_LF, frac_test=0.5, random_state=None):
     # HINT Use integer indexing
 
     # TODO return both x_train_MF and x_test_NF
+    # This is wrong
     return None, None
